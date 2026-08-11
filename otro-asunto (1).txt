@@ -1,0 +1,53 @@
+para stream:
+
+alerta follow, sub
+https://streamlabs.com/alert-box/v3/DFFB89CD5D6653FDB51D
+800
+600
+
+animacion de sub
+https://streamelements.com/overlay/61a5c2a834f722007f4d73c7/_CCLtgnweocccCcFvCQL2C4hBb-xW2Vue7m5oiB1rMVXVAaM
+1962
+1108
+
+animacion raid
+https://streamelements.com/overlay/61a5c56ca2d68f3a3df029af/_CCLtgnweocccCcFvCQL2C4hBb-xW2Vue7m5oiB1rMVXVAaM
+1922
+1078
+
+emotes
+https://streamlabs.com/widgets/emote-wall?token=DFFB89CD5D6653FDB51D
+1922
+1078
+
+overlay nombre
+https://streamelements.com/overlay/61e288a3dfd795fec8462f0e/_CCLtgnweocccCcFvCQL2C4hBb-xW2Vue7m5oiB1rMVXVAaM
+1982
+1098
+
+recomen_animacion
+https://overlays.thefyrewire.com/triggerfyre/tr160f4e4141443a368f11ab?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjaGFubmVsIjoidHIxNjBmNGU0MTQxNDQzYTM2OGYxMWFiIiwidG9rZW4iOiIwNWMxZTg5NTAyNGE2ZDJkM2RkYTljNTQ3MGQ0ZDMwNyJ9.qfsrPuPh4bs7qP0aoE33Lmyq8Id3eI41urZqfOPK1YI
+1922
+1080
+
+view:
+https://streamlabs.com/widgets/viewer-count?token=DFFB89CD5D6653FDB51D
+150
+50
+
+para tts
+https://bot.isaiahcreati.com/alerts/v1/17c3c192-71d9-470e-b808-f151838152aa
+800
+600
+
+para chat
+https://streamelements.com/overlay/63182b3240e28c1de612d2fa/_CCLtgnweocccCcFvCQL2C4hBb-xW2Vue7m5oiB1rMVXVAaM
+833
+947
+
+chat de voz:
+https://streamelements.com/overlay/630b0a4f0c38dc49cc66bae9/_CCLtgnweocccCcFvCQL2C4hBb-xW2Vue7m5oiB1rMVXVAaM
+800
+600
+
+

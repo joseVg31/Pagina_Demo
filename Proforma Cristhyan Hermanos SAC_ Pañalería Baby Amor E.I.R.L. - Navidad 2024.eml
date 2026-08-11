@@ -1,0 +1,1585 @@
+Received: from SJ0P222MB0361.NAMP222.PROD.OUTLOOK.COM (2603:10b6:a03:3e7::6)
+ by SA1P222MB0055.NAMP222.PROD.OUTLOOK.COM with HTTPS; Thu, 12 Sep 2024
+ 17:52:35 +0000
+Received: from SN7PR04CA0203.namprd04.prod.outlook.com (2603:10b6:806:126::28)
+ by SJ0P222MB0361.NAMP222.PROD.OUTLOOK.COM (2603:10b6:a03:3e7::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7962.17; Thu, 12 Sep
+ 2024 17:52:32 +0000
+Received: from SA2PEPF00001509.namprd04.prod.outlook.com
+ (2603:10b6:806:126:cafe::a4) by SN7PR04CA0203.outlook.office365.com
+ (2603:10b6:806:126::28) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7939.27 via Frontend
+ Transport; Thu, 12 Sep 2024 17:52:31 +0000
+Authentication-Results: spf=pass (sender IP is 170.10.133.101)
+ smtp.mailfrom=huntloc.pe; dkim=pass (signature was verified)
+ header.d=huntloc.pe;dmarc=pass action=none
+ header.from=huntloc.pe;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of huntloc.pe designates
+ 170.10.133.101 as permitted sender) receiver=protection.outlook.com;
+ client-ip=170.10.133.101; helo=us-smtp-delivery-101.mimecast.com; pr=C
+Received: from us-smtp-delivery-101.mimecast.com (170.10.133.101) by
+ SA2PEPF00001509.mail.protection.outlook.com (10.167.242.41) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.7918.13
+ via Frontend Transport; Thu, 12 Sep 2024 17:52:30 +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:94CF17CD1C07C293E3880D950D2695457F32A13A8ACF6AF71A0DD280E301C60E;UpperCasedChecksum:8BAC3AA06968AA0E40E91AF846BDE6DAF38758A1644590EBBE03FA089D827B98;SizeAsReceived:8455;Count:43
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=huntloc.pe;
+	s=mimecast20230814; t=1726163550;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:cc:mime-version:mime-version:content-type:content-type:
+	 in-reply-to:in-reply-to:references:references;
+	bh=+iw41Pxb9Y2zZ1r/68hzqb9O5ResyRfu0yM8iF71h9M=;
+	b=F5UHHsgRlxRDe84DnUzKGBSRkGtc/uNyX5CrNFzSREEfQFN0M/oL2HuBKn/vDnQuTmidJ+
+	ETmrq51q+xKfUpXq6JHBjHyjrfj9eVrbg2fFS645m8juAK8YfyaeIdfjfdH0QU/e+Yi7Nd
+	l/dMtwMSpcbZgkx4Fek2RF6F+K1FSvc=
+Received: from BL2PR02CU003.outbound.protection.outlook.com
+ (mail-eastusazlp17010007.outbound.protection.outlook.com [40.93.11.7]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ us-mta-92-sHnqY-6eO4mwr2oJuFpD0Q-1; Thu, 12 Sep 2024 13:52:29 -0400
+X-MC-Unique: sHnqY-6eO4mwr2oJuFpD0Q-1
+Received: from SA0PR01MB6330.prod.exchangelabs.com (2603:10b6:806:ea::7) by
+ BY3PR01MB6578.prod.exchangelabs.com (2603:10b6:a03:364::6) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7962.18; Thu, 12 Sep 2024 17:52:26 +0000
+Received: from SA0PR01MB6330.prod.exchangelabs.com
+ ([fe80::5610:a585:7765:1a81]) by SA0PR01MB6330.prod.exchangelabs.com
+ ([fe80::5610:a585:7765:1a81%7]) with mapi id 15.20.7962.017; Thu, 12 Sep 2024
+ 17:52:25 +0000
+From: Elvia Criales <ECriales@huntloc.pe>
+To: "gian_1994n@hotmail.com" <gian_1994n@hotmail.com>
+CC: Carol Cerpa <CCERPA@huntloc.pe>, Jose Mendoza <JMENDOZA@huntloc.pe>
+Subject: =?iso-8859-1?Q?Proforma_Cristhyan_Hermanos_SAC:_Pa=F1aler=EDa_Baby_Amor_E?=
+ =?iso-8859-1?Q?.I.R.L._-_Navidad_2024?=
+Thread-Topic: =?iso-8859-1?Q?Proforma_Cristhyan_Hermanos_SAC:_Pa=F1aler=EDa_Baby_Amor_E?=
+ =?iso-8859-1?Q?.I.R.L._-_Navidad_2024?=
+Thread-Index: AQHbBTyHoN2lbIDgG06MB3ocP2v6Rg==
+Date: Thu, 12 Sep 2024 17:52:25 +0000
+Message-ID: <SA0PR01MB6330E6338EFF2AB22A104AEAA0642@SA0PR01MB6330.prod.exchangelabs.com>
+References: <MW2PR0102MB33861B8E84D57889B5519D7AA0879@MW2PR0102MB3386.prod.exchangelabs.com>
+ <MW2PR0102MB3386A2DB79235F62C5F8FAB2A0639@MW2PR0102MB3386.prod.exchangelabs.com>
+ <MW2PR0102MB33867E34851E2F9EBAC381F3A0139@MW2PR0102MB3386.prod.exchangelabs.com>
+ <006d01d77904$018bfae0$04a3f0a0$@listosya.com>
+ <006301d77d06$3bdf3a80$b39daf80$@listosya.com>
+ <MW2PR0102MB3386AC4117A6749264A5CF90A0E59@MW2PR0102MB3386.prod.exchangelabs.com>
+ <BL0PR0102MB337740506746D6D91E6BECBDA034A@BL0PR0102MB3377.prod.exchangelabs.com>
+ <SA0PR01MB633072EE5DDDA49F1672D745A0642@SA0PR01MB6330.prod.exchangelabs.com>
+In-Reply-To: <SA0PR01MB633072EE5DDDA49F1672D745A0642@SA0PR01MB6330.prod.exchangelabs.com>
+Accept-Language: es-ES, en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-traffictypediagnostic:
+ SA0PR01MB6330:EE_|BY3PR01MB6578:EE_|SA2PEPF00001509:EE_|SJ0P222MB0361:EE_|SA1P222MB0055:EE_
+X-MS-Office365-Filtering-Correlation-Id: 251d555f-6a04-4b83-abc8-08dcd353ac96
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted:
+ BCL:0;ARA:13230040|1800799024|376014|366016|38070700018
+X-Microsoft-Antispam-Message-Info-Original:
+ =?us-ascii?Q?ujWQj3pu3izuDESK1G0mmdy5j+woDITwwYP7G3p49/lUHInbgaNxNiMJSNVZ?=
+ =?us-ascii?Q?XtuVEMZ60+ZQDaPizcLx2XJMBSlIBQ3Sl9w7glEVOzapESWW+OckiqldiUYX?=
+ =?us-ascii?Q?9Xmsu2Ak+dDuHDk6FkCye8pw5Iedo5R4jIwGgL/1ZuWyEKyUVbjTF0Vcl6x2?=
+ =?us-ascii?Q?OD5sH8FuP/PdWP0+zF1M+UnjbFsYiz5n/PPRLApmM9D+mCfZavqTmpRsBrD+?=
+ =?us-ascii?Q?7+2JsFTUsl9grQmHg3EydW5VJO6WMPuZn2/YRnQ/9WV1x0KZkE8+IAa9whJw?=
+ =?us-ascii?Q?o0J1vYtGQlkNsudd8TG1ejodeHdzdr68/y15q2iEVXaQyJi5164pQXLlcn0z?=
+ =?us-ascii?Q?HGzv+lmFC5M6/tQygbjwJvyvJVhsQz8+1qM04/wCHMvN7C37g20QXjS1JCDA?=
+ =?us-ascii?Q?RIvDh4wT29xxBXRu+/1q6PM+wfqO9kdHr+LxgTeZqVJL1Bx1za3SibhGc8x/?=
+ =?us-ascii?Q?dqvawKquLNZodrxHuqMTOLPKyqMq67tIWjBjcrqnH6lHlM3w1cb8DvdXfcfz?=
+ =?us-ascii?Q?b9V0OGT/ltretlgRGuWVzRNA4ipebFsLKC1UDDpeFGLZV0ApMGoeHW9fV8N/?=
+ =?us-ascii?Q?4jj7es1c+CctG6rtm+aazMg7PeInT/ukSjODXKcmusZK1GFfUuyBo2/iPhNX?=
+ =?us-ascii?Q?pnQNCgoGQboZFSjoUFBKvfkJnU2v2ENhTuOkp2l4mIVVaj0BRoQuOJrhJguq?=
+ =?us-ascii?Q?apbz3VoDG1GRrcBQEhir34oSwlzsED+84zNc4fmJrAY/Afj8vNtqZtywTFY7?=
+ =?us-ascii?Q?eggGfnzLthhSn1EcYOgSrl7ccBfNOgGKtcoL26+1He9RtXtLnYxBGCjOBNvV?=
+ =?us-ascii?Q?7cP4FyEGEk/0i7qolaKyPgWvIJM/b8pJru5JCG2G/hnkAYx0SVPoYbTBwZZa?=
+ =?us-ascii?Q?dtUHiYaueLz37/1czbNNI66QTrZU81iGirSxEi17I0SXFcVCGhGn4HHNEv70?=
+ =?us-ascii?Q?95eVociwcWdg77i1y+Cx9quc8J6y5mP+Q6sIlrglbGF0zQsp+NQ9ESLXneFZ?=
+ =?us-ascii?Q?tl/e6vB+UBJtMIQpq4NY8AcworwiyWu3doA/eWNMOnNolZRfJA85ngrkJxcj?=
+ =?us-ascii?Q?dUeIOH7GxEDI4dJGR4CymRP99pPR1CFHZcdxe2kVEjKjUdFrG7kL9w7PLd84?=
+ =?us-ascii?Q?ro951ZUy3Doh7834zqoWYmRmhR/KsyGjaq0OprzFM/swfSnhDKqX2IAk7cEF?=
+ =?us-ascii?Q?zj9NNNxQnCX/dBpupNAJsxCIxImHcxD4NNU+pHgVoxEAvd86OEThg7L5PtPw?=
+ =?us-ascii?Q?UV4doRBIYrHmOwPF6kU10ZXfrYZezywrO60t3m7h7VHIB2SkP6WYCRaZo0ws?=
+ =?us-ascii?Q?mtPdZ4j24QsMbRaM668yxO8DGwDmVlUOPa5u/UovL01qDMcyT0wKZDIL0JRA?=
+ =?us-ascii?Q?YwE5Pgjpo5L2bb1FjRfrMq7JIC8wtwjjlJaVwWKaYwh/HpjErQ=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted:
+ CIP:255.255.255.255;CTRY:;LANG:es;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR01MB6330.prod.exchangelabs.com;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(376014)(366016)(38070700018);DIR:OUT;SFP:1101
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY3PR01MB6578
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: huntloc.pe
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_004_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_";
+	type="multipart/alternative"
+X-IncomingHeaderCount: 43
+Return-Path: ecriales@huntloc.pe
+X-MS-Exchange-Organization-ExpirationStartTime: 12 Sep 2024 17:52:31.1069
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 251d555f-6a04-4b83-abc8-08dcd353ac96
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped:
+ SA2PEPF00001509.namprd04.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource:
+ SA2PEPF00001509.namprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 9/11/2024 6:58:06 PM
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+ 3b82acc5-1bf2-4604-7e41-08dcd353a980
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 170.10.133.101
+X-SID-PRA: ECRIALES@HUNTLOC.PE
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam:
+ BCL:0;ARA:1444111002|6092099012|70000799015|45200799018|970799054|461199028|1380799030|1360799030|1370799030|3412199025|21101999012|440099028;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 12 Sep 2024 17:52:30.9038
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 251d555f-6a04-4b83-abc8-08dcd353ac96
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource:
+ SA2PEPF00001509.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0P222MB0361
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.1066005
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7962.017
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:1;dest:I;ENG:(5062000308)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9575002)(10195002)(9320005)(120001);
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MTtHRD0xO1NDTD0z
+X-Microsoft-Antispam-Message-Info:
+	=?Windows-1252?Q?9ZkYO3o5Jgz94kMDk7nXzP3Pm/YlfxCbH8mLSdRm0tCvRvHegewS7vkq?=
+ =?Windows-1252?Q?BNkK2hoQXdm+UgBt6NV7vPEkPr6K0EWHs79abXr73VXZFb4r9pQ2SUuh?=
+ =?Windows-1252?Q?I4skVru3sJu6Ow562LKzXQBfnvOeRVO3ndS0eOWpb9VXy+cg2/tqavGi?=
+ =?Windows-1252?Q?1dQ71wdouHloX8rXM9tN0x0qTqzKSzaQW1r9APje8gvgz3n0y+kdWMOX?=
+ =?Windows-1252?Q?RAjt+aGhF3pnZBtmOBcle2mZ+XgOhMrCSaWwNhsANcm8Z9sU5vBx4mfs?=
+ =?Windows-1252?Q?/xbOXnFmT+CTukkm4ImbnIMhpojlW7DaFjBzGgZagD9BbQDjhPcSuy9V?=
+ =?Windows-1252?Q?7oirnbpOurXulIh8N0EfRNg8bUh4tIj3y1IVYIoFKWKwMGTusXZT1+mE?=
+ =?Windows-1252?Q?2dllBBQxL1XRrCOIejbsjnQB9qJLrgy9LuCjlxedSVzHrTbpu3nBuLNG?=
+ =?Windows-1252?Q?3Vn+zPdJ3iBF4N5aHkCyFsjwonZzTfrJkNYkykoBm8U+kYPS6b3+RnpT?=
+ =?Windows-1252?Q?VZF8fZ9gZBAnItTBrQaQt9m38SYzX7FlUfDnRJ8t7xd4epPuTacjVzk+?=
+ =?Windows-1252?Q?m7ohCK8u2iXmCrOvUlLlase+VSunx87K/+hg8f1/LAI63O76kj+YhBKc?=
+ =?Windows-1252?Q?ylMbY3qRClfZJLUMNcFKxJog6VdsFl8w7JRPyv7TXmUx8VdLKXbujGtQ?=
+ =?Windows-1252?Q?DJILeGmfp0xWF/G55JcF2cjDTbOHPhVK54NEjymu5Ky6QzJ3skdvYwK7?=
+ =?Windows-1252?Q?lHd08kiyMtcRGtsUC9gjVMAV0qf/HEb/V5E340sCFYOv0tXStD2aomn5?=
+ =?Windows-1252?Q?p4eunFCE18zlvfWAQpHcTC7wvGYtMXNCy1cOKlbLhPkOIJkAAG3OTE8f?=
+ =?Windows-1252?Q?7969+WTII7BeUWeYCgcfIsQGoMO0o2EaPwwrPeBuQiNCSIJx3LBBLDby?=
+ =?Windows-1252?Q?A6rjGf3B8shWDQC9roVnM7Vo9RfbOLziPguqkAlRGC81gOFsGpA2YK65?=
+ =?Windows-1252?Q?wxwtw+5fBwShQ348/n/qkiR9yl+CqjBQLPJnn4PxENn4UCi5q1iFssa3?=
+ =?Windows-1252?Q?gI/GJxwzD9q1Kcly9fQ/rb1I1EuLrs6JTwNmPMAMMVXW1IFmKsvN+oiU?=
+ =?Windows-1252?Q?phWVeVPFIV5UcS5n4rumXPffkO3XyrOEcMWUjpf0DCuaq6upm7efTXPw?=
+ =?Windows-1252?Q?SMUoIfsLP3j65rgB069Ajpp1j5uY6InhARNCDGVVXfaKGi1k/PMWbyrs?=
+ =?Windows-1252?Q?D9g9SINJ0fWKxUdMxnL378Q58PSVwzNYcWCh8fXvD5GlK18628pohMkU?=
+ =?Windows-1252?Q?a9eByevbL97ZZBQHInF+Izwm34bYA4ygPUOiFNonhczEgW/YPfkg4wHw?=
+ =?Windows-1252?Q?uuzC9GEe87tVHaYjoBvX0rKIN3wJ4v6hmvNHuOzVv1mFK8HrAHPKARHR?=
+ =?Windows-1252?Q?GUYPA3TTCLiWhwNTMNbzsgo+KGlP8476TcaJuP4XJSRAHLuMyjnoX5eu?=
+ =?Windows-1252?Q?TqlutkdhLR5uwXGtgneTsCDx9CxcalammpBF7RXN6UgNUuG/dnqmuk+L?=
+ =?Windows-1252?Q?ahgoHXuXRthZ+LcpcBlk4g9Els8CV0mZ0MN3yZcDf12yoFsTfKOckbD9?=
+ =?Windows-1252?Q?orRpTJnMmrsaSx6SBnw4N3na1SUJSEo+E1BmV9+qRoG9JQnw5loE34V6?=
+ =?Windows-1252?Q?wZUGUaXhtzUDpPOAiLywP14PPxXE7o/AGA9UFnA+BKrKddiYrNioSjLM?=
+ =?Windows-1252?Q?5vcEXyHweia5ogXxKF/nmZObSU+6iyqg0nsrV5sgjYq9lxCG93fEQ6vt?=
+ =?Windows-1252?Q?odwkjw=3D=3D?=
+MIME-Version: 1.0
+
+--_004_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_
+Content-Type: multipart/alternative;
+	boundary="_000_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_"
+
+--_000_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+Estimada se=F1ora Lidia,
+
+Para comentarle que como parte de las actividades de responsabilidad social=
+ de PERU LNG, estamos planificando la entrega de paquetes de v=EDveres por =
+Navidad a un grupo de pescadores y poblaciones de nuestra =E1rea de influen=
+cia directa. En ese sentido, agradecer=E9 enviarnos una cotizaci=F3n de dos=
+ tipos de paquetes de v=EDveres y de servicios complementarios, seg=FAn el =
+siguiente detalle:
+
+
+1. Paquetes para pescadores: 1436 unidades
+2. Paquetes para poblaciones: 2290 unidades
+PRODUCTO
+CANTIDAD
+UNIDAD
+PRODUCTO
+CANTIDAD
+UNIDAD
+Arroz Superior
+4
+Kilogramo
+Arroz Superior
+2
+Kilogramo
+Az=FAcar rubia
+1
+Kilogramo
+Az=FAcar rubia
+1
+Kilogramo
+Leche en lata 395 gr.
+4
+Unidad
+Fideo spaguetti x 500 gr.
+2
+Unidad
+Aceite botella de 2 Lt.
+2
+Unidad
+Leche en lata 395 gr.
+3
+Unidad
+Chocolate tableta 90 gr.
+3
+Unidad
+Chocolate tableta 90 gr.
+2
+Unidad
+Fideo spaguetti x 500 gr.
+4
+Unidad
+Lenteja bebe
+0.5
+Kilogramo
+Fideo corto surtido x 250 gr.
+4
+Unidad
+
+Arveja partida
+0.5
+Kilogramo
+Lenteja bebe
+1
+Kilogramo
+Arveja partida
+1
+Kilogramo
+
+
+Especificaciones:
+
+  *   Los productos de ambos paquetes deben ser envasados de f=E1brica; en =
+la proforma especificar la descripci=F3n del producto, marca y peso.
+  *   La presentaci=F3n de cada paquete debe ser en una caja de cart=F3n, d=
+iferenciado el de pescadores y el de poblaci=F3n con etiquetado con distint=
+o color y con el detalle de los productos.
+  *   Para el tama=F1o de las cajas se deber=E1 considerar 2 panetones en b=
+olsa de 800 gr. para pescadores, y 1 panet=F3n en bolsa de 800 gr. para pob=
+laciones.
+
+Los panetones ser=E1n entregados por nosotros en su almac=E9n para ser incl=
+uidos en cada empaque de v=EDveres.
+
+
+Servicio complementario:
+
+
+  1.  Traslado de los 1436 paquetes para pescadores a 20 destinos entre Ca=
+=F1ete y Chincha.
+
+Referencia de destinos en Ca=F1ete:
+
+-          2 en el Centro de San Vicente
+
+-          1 CP Santa B=E1rbara
+
+-          1 CP Cochahuas=ED
+
+-          3 CP Herbay Bajo
+
+-          1 Nuevo Ayacucho
+
+Referencia de destinos en Chincha:
+
+-          3 Grocio Prado
+
+-          2 Sunampe
+
+-          3 Chincha Alta
+
+-          4 Tambo de Mora
+
+
+  1.  Traslado de los 2290 paquetes para poblaciones a 28 destinos entre Ca=
+=F1ete, Chincha y Pisco.
+
+Referencia de destinos en Ca=F1ete:
+
+-          1 en el CP Nuevo Ca=F1ete
+
+Referencia de destinos en Chincha:
+
+-          5 centros poblados de El Carmen
+
+-          3 centros poblados de Alto Lar=E1n
+
+-          9 asentamientos humanos en Chincha Alta
+
+-          2 asentamientos humanos en Pueblo Nuevo
+
+Referencia de destinos en Pisco:
+
+-          4 centros poblados en Humay
+
+-          4 centros poblados en Independencia
+
+
+  1.  Servicio de estiba para el traslado de los productos.
+  2.  Seguro de transporte.
+
+Quedo atenta a cualquier informaci=F3n adicional que se requiera.
+
+Saludos,
+
+
+[HLOC - baja]
+
+
+Elvia Criales
+CASI Representative
++511-707-2189
++51-980-731-051
+ecriales@huntloc.pe<mailto:ecriales@huntloc.pe>
+
+
+
+--_000_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle21
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:247078321;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-845765114 671744025 671744025 671744027 671744015 6=
+71744025 671744027 671744015 671744025 671744027;}
+@list l0:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:411120012;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1863269544 -1475427490 671744003 671744005 67174400=
+1 671744003 671744005 671744001 671744003 671744005;}
+@list l1:level1
+	{mso-level-start-at:3;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:88.8pt;
+	text-indent:-18.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:124.8pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:160.8pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:196.8pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:232.8pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:268.8pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:304.8pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:340.8pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:376.8pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:756825859;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1721165142 -1789480834 671744003 671744005 671744001=
+ 671744003 671744005 671744001 671744003 671744005;}
+@list l2:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1207524821;
+	mso-list-template-ids:-417403380;}
+@list l3:level1
+	{mso-level-start-at:2;
+	mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level3
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level4
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level6
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level7
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level9
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4
+	{mso-list-id:1241058253;
+	mso-list-template-ids:-226213214;}
+@list l4:level1
+	{mso-level-start-at:3;
+	mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level3
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level4
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level6
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level7
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level9
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5
+	{mso-list-id:1639845686;
+	mso-list-template-ids:-1955850922;}
+@list l5:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level3
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level4
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level6
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level7
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level9
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:1965306671;
+	mso-list-template-ids:-1763675354;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ES-PE" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"es-419">Estimada se=F1ora Lidia,<o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419">Para comentarle que como parte=
+ de las actividades de responsabilidad social de PERU LNG, estamos planific=
+ando la entrega de paquetes de v=EDveres por Navidad a un grupo de pescador=
+es y poblaciones de nuestra =E1rea de influencia
+ directa. En ese sentido, agradecer=E9 enviarnos una cotizaci=F3n de dos ti=
+pos de paquetes de v=EDveres y de servicios complementarios, seg=FAn el sig=
+uiente detalle:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419" style=3D"font-family:&quot;Apt=
+os&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"756" style=3D"width:566.7pt;margin-left:31.9pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"373" nowrap=3D"" colspan=3D"3" valign=3D"bottom" style=3D"widt=
+h:280.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"color:black">1. Paquetes para pesc=
+adores: </span>
+</b><span style=3D"color:black">1436 unidades<b><o:p></o:p></b></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"344" nowrap=3D"" colspan=3D"3" valign=3D"bottom" style=3D"widt=
+h:257.7pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"color:black">2. Paquetes para pobl=
+aciones:</span></b><span style=3D"color:black"> 2290 unidades<b><o:p></o:p>=
+</b></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"209" nowrap=3D"" valign=3D"bottom" style=3D"width:156.65pt;pad=
+ding:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"89" nowrap=3D"" valign=3D"bottom" style=3D"width:66.9pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"75" nowrap=3D"" valign=3D"bottom" style=3D"width:56.45pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" valign=3D"bottom" style=3D"width:143.8pt;padd=
+ing:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"82" nowrap=3D"" valign=3D"bottom" style=3D"width:61.4pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"70" nowrap=3D"" valign=3D"bottom" style=3D"width:52.5pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri Light&qu=
+ot;,sans-serif;color:white">PRODUCTO<o:p></o:p></span></b></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border:solid windowtext 1.0pt;border=
+-left:none;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-family:&quot;Calibri Light&quot;,sans-serif;color:white">CA=
+NTIDAD<o:p></o:p></span></b></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border:solid windowtext=
+ 1.0pt;border-left:none;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;heig=
+ht:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-family:&quot;Calibri Light&quot;,sans-serif;color:white">UN=
+IDAD<o:p></o:p></span></b></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border:solid windowtex=
+t 1.0pt;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri Light&qu=
+ot;,sans-serif;color:white">PRODUCTO<o:p></o:p></span></b></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border:solid windowtext 1.0pt;border=
+-left:none;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-family:&quot;Calibri Light&quot;,sans-serif;color:white">CA=
+NTIDAD<o:p></o:p></span></b></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border:solid windowtext =
+1.0pt;border-left:none;background:#002060;padding:0cm 3.5pt 0cm 3.5pt;heigh=
+t:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-family:&quot;Calibri Light&quot;,sans-serif;color:white">UN=
+IDAD<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Arroz Superior<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">4<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Arroz Superior<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">2<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Az=FAcar rubia<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">1<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Az=FAcar rubia<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">1<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Leche en lata 395 gr.<o:=
+p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">4<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Fideo spaguetti x 500 gr=
+.<o:p></o:p></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">2<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Aceite botella de 2 Lt.<=
+o:p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">2<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Leche en lata 395 gr.<o:=
+p></o:p></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">3<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Chocolate tableta 90 gr.=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">3<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;border=
+:none;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;heigh=
+t:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Chocolate tableta 90 gr.=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">2<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Fideo spaguetti x 500 gr=
+.<o:p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">4<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;border=
+:none;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;heigh=
+t:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Lenteja bebe <o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">0.5<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span lang=3D"PT-BR" style=3D"color:black">Fideo cor=
+to surtido x 250 gr.<o:p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">4<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Unidad<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;border=
+:none;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;heigh=
+t:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+</td>
+<td width=3D"192" nowrap=3D"" style=3D"width:143.8pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Arveja partida<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"82" style=3D"width:61.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">0.5<o:p></o:p></span></p>
+</td>
+<td width=3D"70" nowrap=3D"" style=3D"width:52.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Lenteja bebe </span><spa=
+n lang=3D"PT-BR" style=3D"color:black"><o:p></o:p></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">1<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" valign=3D"bottom" style=3D"width:143.8pt;padd=
+ing:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"82" nowrap=3D"" valign=3D"bottom" style=3D"width:61.4pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"70" nowrap=3D"" valign=3D"bottom" style=3D"width:52.5pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+</tr>
+<tr style=3D"height:21.0pt">
+<td width=3D"209" nowrap=3D"" style=3D"width:156.65pt;border:solid windowte=
+xt 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Arveja partida<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"89" style=3D"width:66.9pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">1<o:p></o:p></span></p>
+</td>
+<td width=3D"75" nowrap=3D"" style=3D"width:56.45pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Kilogramo<o:p></o:p></span></p>
+</td>
+<td width=3D"39" nowrap=3D"" valign=3D"bottom" style=3D"width:29.0pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"192" nowrap=3D"" valign=3D"bottom" style=3D"width:143.8pt;padd=
+ing:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"82" nowrap=3D"" valign=3D"bottom" style=3D"width:61.4pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+<td width=3D"70" nowrap=3D"" valign=3D"bottom" style=3D"width:52.5pt;paddin=
+g:0cm 3.5pt 0cm 3.5pt;height:21.0pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:18.0pt"><b><span lang=3D"es-419=
+">Especificaciones:<o:p></o:p></span></b></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l2 level1 =
+lfo3"><span lang=3D"es-419">Los productos de ambos paquetes deben ser envas=
+ados de f=E1brica; en la proforma especificar la descripci=F3n del producto=
+, marca y peso.<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=
+=3D"margin-left:0cm;mso-list:l2 level1 lfo3"><span lang=3D"es-419">La prese=
+ntaci=F3n de cada paquete debe ser en una caja de cart=F3n, diferenciado el=
+ de pescadores y el de poblaci=F3n con etiquetado con distinto color y con =
+el detalle
+ de los productos.<o:p></o:p></span></li><li class=3D"MsoListParagraph" sty=
+le=3D"margin-left:0cm;mso-list:l2 level1 lfo3"><span lang=3D"es-419">Para e=
+l tama=F1o de las cajas se deber=E1 considerar 2 panetones en bolsa de 800 =
+gr. para pescadores, y 1 panet=F3n en bolsa de 800 gr. para poblaciones.
+<b><i><o:p></o:p></i></b></span></li></ul>
+<p class=3D"MsoListParagraph"><b><i><span lang=3D"es-419">Los panetones ser=
+=E1n entregados por nosotros en su almac=E9n para ser incluidos en cada emp=
+aque de v=EDveres.<o:p></o:p></span></i></b></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:18.0pt"><b><span lang=3D"es-419=
+" style=3D"color:black">Servicio complementario:</span></b><b><span lang=3D=
+"es-419"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419" style=3D"font-family:&quot;Apt=
+os&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<ol style=3D"margin-top:0cm" start=3D"1" type=3D"a">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l0 level1 =
+lfo6"><span lang=3D"es-419">Traslado de los 1436 paquetes para pescadores a=
+ 20 destinos entre Ca=F1ete y Chincha.<o:p></o:p></span></li></ol>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:35.4pt"><span lang=3D"es-419">R=
+eferencia de destinos en Ca=F1ete:<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">2 en el Centro de San =
+Vicente <o:p>
+</o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">1 CP Santa B=E1rbara<o=
+:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">1 CP Cochahuas=ED<o:p>=
+</o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">3 CP Herbay Bajo<o:p><=
+/o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">1 Nuevo Ayacucho<o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:35.4pt"><span lang=3D"es-419"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:35.4pt"><span lang=3D"es-419">R=
+eferencia de destinos en Chincha:<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">3 Grocio Prado<o:p></o=
+:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">2 Sunampe<o:p></o:p></=
+span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">3 Chincha Alta<o:p></o=
+:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:53.4pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">4 Tambo de Mora<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<ol style=3D"margin-top:0cm" start=3D"2" type=3D"a">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l0 level1 =
+lfo6"><span lang=3D"es-419">Traslado de los 2290 paquetes para poblaciones =
+a 28 destinos entre Ca=F1ete, Chincha y Pisco.<o:p></o:p></span></li></ol>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:36.0pt"><span lang=3D"es-419">R=
+eferencia de destinos en Ca=F1ete:<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">1 en el CP Nuevo Ca=F1=
+ete <o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:36.0pt"><span lang=3D"es-419">R=
+eferencia de destinos en Chincha:<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">5 centros poblados de =
+El Carmen<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">3 centros poblados de =
+Alto Lar=E1n<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">9 asentamientos humano=
+s en Chincha Alta<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">2 asentamientos humano=
+s en Pueblo Nuevo<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:36.0pt"><span lang=3D"es-419"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:36.0pt"><span lang=3D"es-419">R=
+eferencia de destinos en Pisco:<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">4 centros poblados en =
+Humay<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:54.0pt;text-indent:-18.0=
+pt;mso-list:l1 level1 lfo8">
+<![if !supportLists]><span lang=3D"es-419"><span style=3D"mso-list:Ignore">=
+-<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"es-419">4 centros poblados en =
+Independencia<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+<ol style=3D"margin-top:0cm" start=3D"3" type=3D"a">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l0 level1 =
+lfo6"><span lang=3D"es-419">Servicio de estiba para el traslado de los prod=
+uctos.<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin=
+-left:0cm;mso-list:l0 level1 lfo6"><span lang=3D"es-419">Seguro de transpor=
+te.<o:p></o:p></span></li></ol>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Quedo atenta a cualquier informaci=F3n adicional que=
+ se requiera.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Saludos,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:36.3pt">
+<td width=3D"160" rowspan=3D"2" style=3D"width:120.25pt;border-top:solid #A=
+6A6A6 1.0pt;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right=
+:none;padding:0cm 5.4pt 0cm 5.4pt;height:36.3pt">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:9.0pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif"><o:p>&n=
+bsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:9.0pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif"><img wi=
+dth=3D"146" height=3D"50" style=3D"width:1.5208in;height:.5208in" id=3D"Pic=
+ture_x0020_1" src=3D"cid:image001.jpg@01DB0512.906C2BC0" alt=3D"HLOC - baja=
+"></span></b><b><span style=3D"font-size:9.0pt;line-height:105%;font-family=
+:&quot;Arial&quot;,sans-serif"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><o:p>&nbsp;</o:p></p>
+</td>
+<td width=3D"253" valign=3D"top" style=3D"width:189.95pt;border:none;border=
+-top:solid #A6A6A6 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.3pt">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:9.0pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif"><o:p>&n=
+bsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif">Elvia =
+Criales<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%;vertical-align:baseline"><=
+span style=3D"font-size:9.0pt;line-height:105%;font-family:&quot;Arial&quot=
+;,sans-serif;color:black">CASI Representative</span><span style=3D"font-siz=
+e:12.0pt;line-height:105%;font-family:&quot;Times New Roman&quot;,serif"><o=
+:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:39.45pt">
+<td width=3D"253" style=3D"width:189.95pt;border:none;border-bottom:solid #=
+A6A6A6 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.45pt">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><span style=3D"font-size:=
+7.5pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif;color:black=
+">+511-707-2189<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><span style=3D"font-size:=
+7.5pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif;color:black=
+">+51-980-731-051<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><span style=3D"font-size:=
+7.5pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif"><a href=3D=
+"mailto:ecriales@huntloc.pe">ecriales@huntloc.pe</a><span style=3D"color:bl=
+ack"><o:p></o:p></span></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:9.0pt;line-height:105%;font-family:&quot;Arial&quot;,sans-serif"><o:p>&n=
+bsp;</o:p></span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"es-419"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_--
+
+--_004_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=2398;
+	creation-date="Thu, 12 Sep 2024 17:52:24 GMT";
+	modification-date="Thu, 12 Sep 2024 17:52:25 GMT"
+Content-ID: <image001.jpg@01DB0512.906C2BC0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAAyAJIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiiv
+IvHnxJ1nTfFsumaDLCI4AkTBog5aU8nk/UCqjFydkJux67RXA/ELxdqPhLw9psdvNEdVuCA7mMEY
+VfnO33JH51f+G2saxr/h19R1qVHMszLAEjCfIvBPHXJz+VHK7cwX1sdfRXKa141FrrT6LpVuLrUU
+QPJvJEcWRkBiB/nIp/hzxvZ65qkulthb6JNx2BvLfBwdpI//AF0uV2uFzqKKKKQwopOleTw/FfV9
+T8YLpWlWli1tNd+RFI6uWKZwWOGx0BNVGLlsJux6zRSUtSMKKKKACiiigAooooAKKKKAOb8cRamN
+Da70nV/7Me0DSyuyBldApJGCOvAxXh/hTSdU8W+Kt1rcrHfAm8e5lXcFYEHJHruIr1j4u31zF4TW
+ws4J5ZL6UI/lRlsRr8xzj1OB+NZHwq0x/D/hfVtdvLaVZnzsjaMhykYJwB15Yn8hW0HywuQ1dnn3
+jGXVrnxO+n6nqP8Aad1asLdZEQKNxxlQMepx+FbOvan4o+H0ltosWvoyxwBwkEK4iBJwDkZJ4Jpv
+w+0K/wBZ8fwXmpWlwixO95K8sTKC+cgZI/vEflUPxC03VpfHuoT3WnXUsTSqYykTMrxAAAAgHsPz
+zWml1EnzOxV9Uh/sa+Z1tY7+Iy6kJANswKZDZwMNyRjPoarrDaeC/D+r6lpTDh98MmSRHkbY48nO
+7ls9exzV3/ha7mERN4O1MxgAbCpIx/3zWff6rqHxJv8AStGh0G80/TobgT3TSqQuwdugA7/UkVnZ
+9ditDE0b4o+ItF1pV16Sa7t+BNBJGqOoPIZcAc45weCK9cv/ABRYxeD7jX7SdJrZIDJGw/iboB7H
+OBisvx34BtvFlkJbcJBqcK4hlxgOP7je3oe1eOWOkeIzO3hpre9gt7u6RJ42ibYGDfezjHvkHnAo
+tGeuwao6q8u/GcXgJfEF94lCQXKALbeQodg5wADjjI5+lYfw68MavrN9PfaLfx2EtiAomePfywII
+A+n867D4w2d8NK0fT9Osp5NPhJLGFC4VlUKgIHTgmnfDfxBYeHvD8Gmzafqov552aXFk5BZjhfmx
+0wB+tVze5dCtqdt4X0vWdNt5/wC3tY/tKd3GwrGEWNQO2B1J/pW7SUtc7dzQKKKKACiiigAooooA
+KKKKACiiigArCuvE629jrFytq8i6bKIFUOMzyFVO0enzOFrdrITwxp6STt/pBWe4F08bTsU8wOH3
+Bc4HzAflTVuoGYvjmOeJTa2TSSSNGkSmUKpYxea+44+UIvU8/StBvEccXhoavLGkgbCpHayiUSMW
+2KFbAzkkDtikHhHSUtTBDDJCPtTXavFKyukrcFlYHI4OMdMVZOg2DaGukGE/Y0UKq7zuGDkENnOQ
+RnPrT0FqYt342bTo7iO+sI4byCeGEoboeX+8UsCZMcYCtnjt70+z8bJeXiQiz8kC0S6m86Xa8YZS
+xAXackAA9R1Fadr4a060kikSOR5Y5jceZLKzs8hXZuYk8nacDPTtRL4bsZri/mc3H/EwQpcIJ2CO
+CoT7ucA7RjNHuhqZGm+O47/RbnUGsSgQxpCqTBxPI44jDYGGBIDDtnrViPxXPcyaOtnpySLqcJmD
+Nc7fK2gFwflOcZAz3Jq83hbSZJ/MltFkHmmbypCWj3lAm7YeM7VA/P1p1r4b02zEQt4WQRQSW8YD
+n5EdtzAenIH0xR7oamG3xDgSOKR7CURy2cl0reYOxfy06dXCMRV+LxUZ9XWzS2hSPzzbGSa5CM8i
+gFxGuDu25weRnnFTP4O0aS3SB7UtGhg2gyNx5IxH37An65OanTw3p8erf2iiSrL5pm2CVvL8wrtL
+7M43bTjNHuhqMuNauDrMmm6dYi5kgjSS4keby1jDE7QOCSxCk+nvzVG38Yiae2kksWj067aVbe5M
+oLP5asxYpjhSEbBz6ZAzWtNolrLqyakPOiulUIzRSsglUEkBwDhgMnr61Sj8HaRGJVEMpR45IVRp
+mKwpJ98RjPyZ9qNA1Muw+IKX50qNdOkSe+mZJIzKP9HUZwzHHOQpIHsfSiy+IUV7pdxeLYNuXyxb
+okwYTu+dqbsAKwC5Yc4BzWuvhHSEnkmS2KSSu7syyMPmaPyz3/u5A9Mn1qaTw5pk4s1ntEmjs4zF
+BFJ8yIMAZ2ngnAxk89fWi8Q1Mq88dWtm1iWtnaK6sjeGQOMRjYWVT7ttYD3FWIvFEsmrRaZ/Zkou
+5EimC7/lWJlyzlscbWBXHUnHrxJJ4M0aaxNnJbM0GyKMKZG4WNiyAHPGCx+ua1EsIE1GS+Cn7RJE
+sTMWP3VJIAHbljRoGpYopaKkYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAf/2Q==
+
+--_004_SA0PR01MB6330E6338EFF2AB22A104AEAA0642SA0PR01MB6330prod_--
